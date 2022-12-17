@@ -1,0 +1,11 @@
+{
+    "neighbouring_pitch_range": 0.0,
+    "direction_of_melody": 0.75,
+    "stability_of_melody": 0.05,
+    "pitch_range": 0.675,
+    "unique_notes": 0.2,
+    "equal_consecutive_notes": 0.75,
+    "unique_rhythms": 0.1,
+    "total_pitches": 10.0,
+    "duration_of_melody": 9.0
+}
